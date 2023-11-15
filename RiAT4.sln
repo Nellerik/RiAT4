@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiAT4.1", "RiAT4\RiAT4.1.csproj", "{726F4972-0039-4E31-BDE2-83AA4BA3A8BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiAT4.2", "RiAT4.2\RiAT4.2.csproj", "{61A34E91-00D7-4F9C-825E-092B91CD5314}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiAT4.3_consumer", "RiAT4.3_consumer\RiAT4.3_consumer.csproj", "{761A034A-E8FF-43A4-B3B8-729DB3E2DF44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiAT4.4_producer", "RiAT4.4_producer\RiAT4.4_producer.csproj", "{456D2FD2-2E7D-4FEB-A4BB-590A61BBA343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiAT4.4_consumer1", "RiAT4.4_consumer\RiAT4.4_consumer1.csproj", "{70B5664A-D4FE-46BB-B865-41131AE9745E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiAT4.4_consumer2", "RiAT4.4_consumer2\RiAT4.4_consumer2.csproj", "{4345F03C-71BB-43B6-85EF-AEB653354F2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiAT4.4_consumer3", "RiAT4.4_consumer3\RiAT4.4_consumer3.csproj", "{22ACCA90-F785-4E1E-9F16-16DB017D73D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726F4972-0039-4E31-BDE2-83AA4BA3A8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726F4972-0039-4E31-BDE2-83AA4BA3A8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726F4972-0039-4E31-BDE2-83AA4BA3A8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726F4972-0039-4E31-BDE2-83AA4BA3A8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A34E91-00D7-4F9C-825E-092B91CD5314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A34E91-00D7-4F9C-825E-092B91CD5314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A34E91-00D7-4F9C-825E-092B91CD5314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A34E91-00D7-4F9C-825E-092B91CD5314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761A034A-E8FF-43A4-B3B8-729DB3E2DF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761A034A-E8FF-43A4-B3B8-729DB3E2DF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761A034A-E8FF-43A4-B3B8-729DB3E2DF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761A034A-E8FF-43A4-B3B8-729DB3E2DF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456D2FD2-2E7D-4FEB-A4BB-590A61BBA343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456D2FD2-2E7D-4FEB-A4BB-590A61BBA343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456D2FD2-2E7D-4FEB-A4BB-590A61BBA343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456D2FD2-2E7D-4FEB-A4BB-590A61BBA343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B5664A-D4FE-46BB-B865-41131AE9745E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B5664A-D4FE-46BB-B865-41131AE9745E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B5664A-D4FE-46BB-B865-41131AE9745E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B5664A-D4FE-46BB-B865-41131AE9745E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4345F03C-71BB-43B6-85EF-AEB653354F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4345F03C-71BB-43B6-85EF-AEB653354F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4345F03C-71BB-43B6-85EF-AEB653354F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4345F03C-71BB-43B6-85EF-AEB653354F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22ACCA90-F785-4E1E-9F16-16DB017D73D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ACCA90-F785-4E1E-9F16-16DB017D73D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ACCA90-F785-4E1E-9F16-16DB017D73D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ACCA90-F785-4E1E-9F16-16DB017D73D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E071AB1-FE51-4A93-A2D7-7E5C9701DADA}
+	EndGlobalSection
+EndGlobal
